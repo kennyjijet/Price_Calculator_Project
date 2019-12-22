@@ -1,0 +1,17 @@
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\bin\Debug\netcoreapp2.1\Price_Calculator_Test.deps.json
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\bin\Debug\netcoreapp2.1\Price_Calculator_Test.runtimeconfig.json
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\bin\Debug\netcoreapp2.1\Price_Calculator_Test.runtimeconfig.dev.json
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\bin\Debug\netcoreapp2.1\Price_Calculator_Test.dll
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\bin\Debug\netcoreapp2.1\Price_Calculator_Test.pdb
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\obj\Debug\netcoreapp2.1\Price_Calculator_Test.csprojAssemblyReference.cache
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\obj\Debug\netcoreapp2.1\Price_Calculator_Test.csproj.CoreCompileInputs.cache
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\obj\Debug\netcoreapp2.1\Price_Calculator_Test.AssemblyInfoInputs.cache
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\obj\Debug\netcoreapp2.1\Price_Calculator_Test.AssemblyInfo.cs
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\obj\Debug\netcoreapp2.1\Price_Calculator_Test.dll
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\obj\Debug\netcoreapp2.1\Price_Calculator_Test.pdb
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\bin\Debug\netcoreapp2.1\Price_Calculator.dll
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\bin\Debug\netcoreapp2.1\Price_Calculator.pdb
+C:\Users\Ultra\Desktop\API_ASP\Price_Project\Price_Calculator_Test\obj\Debug\netcoreapp2.1\Price_Calculator_Test.csproj.CopyComplete

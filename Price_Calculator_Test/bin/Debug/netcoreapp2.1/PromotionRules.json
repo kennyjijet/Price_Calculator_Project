@@ -1,0 +1,73 @@
+[
+    {
+        "Coupon" : "DIS10",
+        "ConditionPeople": 0,
+        "UnpaidCustomer" : 0,
+        "DiscountPercentage": 10,
+        "MinimumPrice" : 0
+    },
+    {
+        "Coupon" : "DIS10",
+        "ConditionPeople": 0,
+        "UnpaidCustomer" : 0,
+        "DiscountPercentage": 50,
+        "MinimumPrice" : 4000
+    },
+    {
+        "Coupon" : "STARCARD",
+        "ConditionPeople": 2,
+        "UnpaidCustomer" : 0,
+        "DiscountPercentage": 30,
+        "MinimumPrice" : 0
+    },
+    {
+        "Coupon" : "STARCARD",
+        "ConditionPeople": 4,
+        "UnpaidCustomer" : 1,
+        "DiscountPercentage": 0,
+        "MinimumPrice" : 0
+    },
+    {
+        "Coupon" : "STARCARD1",
+        "ConditionPeople": 4,
+        "UnpaidCustomer" : 1,
+        "DiscountPercentage": 20,
+        "MinimumPrice" : 0
+    },
+    {
+        "Coupon" : "STARCARD2",
+        "ConditionPeople": 4,
+        "UnpaidCustomer" : 0,
+        "DiscountPercentage": 50,
+        "MinimumPrice" : 500
+    },
+    {
+        "Coupon" : "NONE",
+        "ConditionPeople": 7,
+        "UnpaidCustomer" : 1,
+        "DiscountPercentage": 0,
+        "MinimumPrice" : 0
+    },
+    {
+        "Coupon" : "NONE",
+        "ConditionPeople": 10,
+        "UnpaidCustomer" : 1,
+        "DiscountPercentage": 50,
+        "MinimumPrice" : 0
+    },
+    {
+        "Coupon" : "NONE",
+        "ConditionPeople": 0,
+        "UnpaidCustomer" : 0,
+        "DiscountPercentage": 10,
+        "MinimumPrice" : 2000
+    },
+    {
+        "Coupon" : "NONE",
+        "ConditionPeople": 0,
+        "UnpaidCustomer" : 0,
+        "DiscountPercentage": 25,
+        "MinimumPrice" : 2500
+    }
+    
+]
